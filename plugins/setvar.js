@@ -28,7 +28,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
 
-𝐇𝐞𝐥𝐥𝐨 🦋 𝐈 𝐚𝐦 𝐚 Lizamwol 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨 🦋 𝐈 𝐚𝐦 𝐚 CLOWN SIR 𝐛𝐨𝐭.
 
   
 
@@ -126,7 +126,7 @@ All setvars are
 
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Lizamwol bot 🧚‍♂️*
+     *happy using CLOWN bot 🧚‍♂️*
 
 *Editing And Devaloper : Nithin-Fayas*
 
@@ -134,7 +134,7 @@ All setvars are
 
 *Supporting : Black mods*
 
-*User Support : Nithin*
+*User Support : shibily*
 
       ═════💢💢═════
 
